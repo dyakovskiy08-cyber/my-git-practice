@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Название приложения -->
+    <string name="app_name">Моя Библиотека</string>
+
+    <!-- Название главной активности -->
+    <string name="title_activity_main">Главная</string>
+
+    <!-- Текст для TextView в MainActivity (пока) -->
+    <string name="hello_world">Добро пожаловать в Мою Библиотеку!</string>
+
+    <!-- Заголовок для добавления новой книги -->
+    <string name="add_book_title">Добавить новую книгу</string>
+
+    <!-- Метки для полей ввода -->
+    <string name="hint_book_title">Название книги</string>
+    <string name="hint_book_author">Автор</string>
+    <string name="hint_book_description">Описание (опционально)</string>
+
+    <!-- Текст для кнопок -->
+    <string name="button_save">Сохранить</string>
+    <string name="button_cancel">Отмена</string>
+    <string name="button_add_book">Добавить книгу</string>
+    <string name="button_edit_book">Редактировать</string>
+    <string name="button_delete_book">Удалить</string>
+
+    <!-- Тексты для чекбоксов -->
+    <string name="label_read">Прочитано</string>
+
+    <!-- Сообщения -->
+    <string name="message_book_added">Книга успешно добавлена!</string>
+    <string name="message_book_updated">Книга успешно обновлена!</string>
+    <string name="message_book_deleted">Книга успешно удалена!</string>
+    <string name="message_field_required">Это поле обязательно для заполнения.</string>
+
+    <!-- Для диалогов -->
+    <string name="dialog_delete_title">Удалить книгу?</string>
+    <string name="dialog_delete_message">Вы уверены, что хотите удалить эту книгу?</string>
+    <string name="dialog_yes">Да</string>
+    <string name="dialog_no">Нет</string>
+    <string name="book_cover" />
+</resources>
